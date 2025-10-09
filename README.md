@@ -10,9 +10,11 @@
 
 ###
 
+<!--
 <div align="center">
 <a href="https://github.com/NDanck">
 <img loading="lazy" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDanck&layout=compact&langs_count=10&theme=nightowl"/>
+-->
 
 ###
 
