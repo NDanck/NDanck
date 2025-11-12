@@ -4,7 +4,9 @@
 
 <h3 align="left"> 👨‍💻 About Me</h3>
 
-<h3 align="left">💼 I’m currently working at Sideral Linhas Aéreas</h3>
+<h3 align="left">💼 Working at Sideral Linhas Aéreas</h3>
+
+<h3 align="left">🌱 Learning Java ☕</h3>
 
 ###
 
